@@ -1,0 +1,37 @@
+
+
+body{
+    background-color: sandybrown;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;  
+    background-color: floralwhite;
+    max-width: 800px;
+    color: darkslategrey;
+    line-height: 10pxpx;
+    font-weight: 200;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+    }
+    img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        width: 90%;
+    }
+    iframe{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        width: 80%;
+    }
